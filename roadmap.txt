@@ -1,0 +1,5 @@
+Roadmap
+
+1. Belajar mengenai GIT dan GITHUB.
+2. Mengerjakan Ujikom.
+3. Belajar membuat desain web.
