@@ -4,4 +4,4 @@ Roadmap
 2. Mengerjakan Ujikom.
 3. Belajar membuat desain web.
 4. Membuat projek-projek kecil.
-5. Belajar PHP.
+5. Membuat projek besar yang berjudul "Sekolah Digital" dan "Toko Online"
